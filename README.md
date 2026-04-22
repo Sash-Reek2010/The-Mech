@@ -1,5 +1,5 @@
 # The Mech
-A 100% mechanical keyboard with the Raspberry Pi Pico as its brains! It features 104 Akko V3 Matcha Green keyswitches with 3D printed keycaps and Durock Smokey Screw-In stabilizers. The PCB itself is housed inside a 3D printed case which is held down by M4 screws.
+A 100% mechanical keyboard with the Raspberry Pi Pico as its brains! It features 104 Akko V3 Matcha Green keyswitches with 3D printed keycaps and Durock Clear Screw-In stabilizers. The PCB itself is housed inside a 3D printed case which is held down by M4 screws.
 
 
 <img width="1414" height="2000" alt="main zine" src="https://github.com/user-attachments/assets/caae3f3d-815f-433f-a4f8-b690f9f74fe6 " />
@@ -50,12 +50,13 @@ I made the case in Fusion 360! It is also split into parts which can be printed 
 <img width="1920" height="736" alt="case 2" src="https://github.com/user-attachments/assets/8e81d409-6e9a-4574-a154-a91c6e7b3fd7" />
 
 ## BOM
-The full BOM is in the repo files as a csv. The shortened version without links and cost is as follows.
+The full BOM is in the repo files as a csv. The shortened version without links and cost is as follows. \
+Or read it here! https://docs.google.com/spreadsheets/d/1H-eOUtyDmBi-_5e-qRuBTTzMEN6aQgQbRGRCWlnd5h8/edit?usp=sharing \
 Total cost ~ 65-80 USD depending on location and cost of PCB fab.
 | Component | Description | Units |
 | :---------------- | :------: | ----: |
 | Akko V3 Matcha Green | Keyswitches | 104 |
-| Durock Smokey Screw-In Stabilizers | Stabilizers |  7 |
+| Durock Clear Screw-In Stabilizers | Stabilizers |  7 |
 | Raspberry Pi Pico | Microcontroller | 1 |
 | M4 Screws 45mm | Screws for mounting | 10 |
 | Keeb PCB | PCB | 1 |
