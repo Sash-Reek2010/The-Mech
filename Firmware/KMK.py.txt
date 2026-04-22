@@ -1,0 +1,18 @@
+import board
+
+# Stuff T-T
+
+from kmk.scanners import DiodeOrientation
+
+col_pins = (board.SCK, board.MOSI, board.MISO, board.RX, board.TX, board.D4)
+row_pins = (board.D10, board.D11, board.D12, board.D13, board.D9, board.D6, board.D5, board.SCL)
+rollover_cols_every_rows = 4
+diode_orientation = DiodeOrientation.COL2ROW
+
+# Keymap!
+
+keyboard.keymap = [[KC.ESCAPE, KC.F1, KC.F2, KC.F3, KC.F4, KC.F5, KC.F6, KC.F7, KC.F8, KC.F9, KC.NO, KC.NO, KC.F10, KC.F11, KC.F12, KC.PSCREEN, KC.SCROLLLOCK, KC.PAUSE, KC.NO, KC.NO], [KC.GRAVE, KC.N1, KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7, KC.N8, KC.N9, KC.N0, KC.MINUS, KC.EQUAL, KC.BSPACE, KC.INSERT, KC.HOME, KC.PGUP, KC.NUMLOCK, KC.KP_SLASH, KC.KP_ASTERISK], [KC.TAB, KC.Q, KC.W, KC.E, KC.R, KC.T, KC.Y, KC.U, KC.I, KC.O, KC.P, KC.LBRACKET, KC.RBRACKET, KC.BSLASH, KC.DELETE, KC.END, KC.PGDOWN, KC.KP_7, KC.KP_, KC.KP_9], [KC.CAPSLOCK, KC.A, KC.S, KC.D, KC.F, KC.G, KC.H, KC.J, KC.K, KC.L, KC.SCOLON, KC.QUOTE, KC.ENTER, KC.NO, KC.NO, KC.NO, KC.KP_MINUS, KC.KP_4, KC.KP_5, KC.KP_6][KC.LSHIFT, KC.Z, KC.X, KC.C, KC.V, KC.B, KC.N, KC.M, KC.COMMA, KC.DOT, KC.SLASH, KC.RSHIFT, KC.NO, KC.NO, KC.NO, KC.UP, KC.KP_PLUS, KC.KP_1, KC.KP_2, KC.KP_3], [KC.LCTRL, KC.LGUI, KC.LALT, KC.NO, KC.NO, KC.NO, KC.NO, KC.SPACE, KC.NO, KC.RALT, KC.RGUI, KC.NO, KC.RCTRL, KC.LEFT, KC.DOWN, KC.RIGHT, KC.KP_0, KC.KP_DOT, KC.KP_ENTER]]
+
+
+if __name__ == '__main__':
+    keyboard.go()
