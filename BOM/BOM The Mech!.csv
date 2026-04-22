@@ -1,0 +1,20 @@
+Item ,Description ,URL,Quantity ,Price (INR),Price (USD),Total (Cumulative)
+Akko V3 Matcha Green Keyswitches ,Keyswitches for PCB,Akko V3 Matcha Green Pro Switch [Pack of 45] - StacksKB,100,2198,24,24
+Haimu Heartbeat Silent Linear Switch,Keyswitches for PCB,Haimu Heartbeat Silent Linear Switch (Pack of 10) - StacksKB,20,660,7.04,31.04
+Durock Clear Screw-In Stabilizers,Stabilizers for Keyswitches,Durock Clear Screw-In Stabilizers V2 - StacksKB,8,2365,25.21,56.25
+1N418,Diodes for PCB,1N4148 Through Hole Diode (Pack of 10) - StacksKB,110,165,1.78,58.03
+M4 Screws,Mounting Screws,"Rpi shop - M4x 40mm Stainless Steel Socket Head Cap Screws, Allen Socket Drive,Fully Thread, Bright Finish, Machine Thread, Quantity - 10 Pcs",10,253,2.7,60.73
+PCB,The PCB itself,https://jlcpcb.com/,5,2500,27,87.87
+Raspberry Pi Pico,The Brains (Microcontroller),https://robu.in/product/raspberry-pi-pico,1,384,4.15,91.88
+,,,,,,
+3D Printed Parts,Keycaps,N/A,N/A,N/A,N/A,
+Keycaps,Case,N/A,N/A,N/A,N/A,
+Keyboard Case,,,,,,
+,,,,,,
+Shipping (Depends based on location),,,,,,
+StacksKB ,Shipping,N/A,N/A,100,1.08,92.96
+Robu,Shipping,N/A,N/A,100,1.08,94.04
+Amazon,Shipping,N/A,N/A,100,1.08,95.12
+JLCPCB,Shipping,N/A,N/A,1591,16.96,112.08
+,,,,,,
+TOTAL ,112.08 USD,,,,,
