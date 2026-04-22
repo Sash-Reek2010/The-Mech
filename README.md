@@ -10,7 +10,7 @@ A 100% mechanical keyboard with the Raspberry Pi Pico as its brains! It features
 
 
 ## Why a keyboard?
-I recently started learning Fusion and my laptop couln't run it AT ALL so I borrowed my dad's pc. That's when I first encoutered the worst keyboard of my life. I got so used to the laptop keyboard that normal detached ones feel extremely off to me. So to combat that I decided to make a mechanical keyboard! Plus I've never dealt with firmware and KMK is supposed to be really really easy and beginner friendly. And the main reason is that I'm really bad at soldering, so this should help me improve that too. (104 switches is a lot of pins to solder T-T)
+I recently started learning Fusion and my laptop couldn't run it AT ALL so I borrowed my dad's pc. That's when I first encoutered the worst keyboard of my life. I got so used to the laptop keyboard that normal detached ones feel extremely off to me. So to combat that I decided to make a mechanical keyboard! Plus I've never dealt with firmware and KMK is supposed to be really really easy and beginner friendly. And the other side reason is that I'm really bad at soldering, so this should help me improve that too. (104 switches is a lot of pins to solder T-T)
 
 
 <img width="1920" height="736" alt="zine 2" src="https://github.com/user-attachments/assets/baeabc7e-3b9d-43b6-a9f5-1d38fb1637ee" />
