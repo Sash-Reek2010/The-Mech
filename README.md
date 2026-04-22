@@ -4,6 +4,11 @@ A 100% mechanical keyboard with the Raspberry Pi Pico as its brains! It features
 
 <img width="1414" height="2000" alt="main zine" src="https://github.com/user-attachments/assets/caae3f3d-815f-433f-a4f8-b690f9f74fe6 " />
 
+
+<img width="1920" height="736" alt="zine 3" src="https://github.com/user-attachments/assets/f961d8e2-641c-41d2-951c-508795206c8a" />
+
+
+
 ## Why a keyboard?
 I recently started learning Fusion and my laptop couln't run it AT ALL so I borrowed my dad's pc. That's when I first encoutered the worst keyboard of my life. I got so used to the laptop keyboard that normal detached ones feel extremely off to me. So to combat that I decided to make a mechanical keyboard! Plus I've never dealt with firmware and KMK is supposed to be really really easy and beginner friendly. And the main reason is that I'm really bad at soldering, so this should help me improve that too. (104 switches is a lot of pins to solder T-T)
 
@@ -81,3 +86,5 @@ I learnt way too much through this project. I got to know what a diode was and a
 <img width="617" height="324" alt="KEEB!" src="https://github.com/user-attachments/assets/0dc94d1f-4cad-4af0-8dca-fa81beb3083b" />
 
 ## Thanks for reading! Hope you have fun with the build :3 -Sashreek!
+
+
