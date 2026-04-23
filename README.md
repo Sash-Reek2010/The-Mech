@@ -8,6 +8,8 @@ A 100% mechanical keyboard with the Raspberry Pi Pico as its brains! It features
 <img width="1920" height="736" alt="zine 3" src="https://github.com/user-attachments/assets/f961d8e2-641c-41d2-951c-508795206c8a" />
 
 
+[main zine.pdf](https://github.com/user-attachments/files/26992314/main.zine.pdf)
+
 
 ## Why a keyboard?
 I recently started learning Fusion and my laptop couldn't run it AT ALL so I borrowed my dad's pc. That's when I first encoutered the worst keyboard of my life. I got so used to the laptop keyboard that normal detached ones feel extremely off to me. So to combat that I decided to make a mechanical keyboard! Plus I've never dealt with firmware and KMK is supposed to be really really easy and beginner friendly. And the other side reason is that I'm really bad at soldering, so this should help me improve that too. (104 switches is a lot of pins to solder T-T)
@@ -52,7 +54,7 @@ I made the case in Fusion 360! It is also split into parts which can be printed 
 ## BOM
 The full BOM is in the repo files as a csv. The shortened version without links and cost is as follows. \
 Or read it here! https://docs.google.com/spreadsheets/d/1H-eOUtyDmBi-_5e-qRuBTTzMEN6aQgQbRGRCWlnd5h8/edit?usp=sharing \
-Total cost ~ 65-80 USD depending on location and cost of PCB fab.
+Total cost ~ 85-100 USD depending on location and cost of PCB fab.
 | Component | Description | Units |
 | :---------------- | :------: | ----: |
 | Akko V3 Matcha Green | Keyswitches | 104 |
@@ -63,12 +65,14 @@ Total cost ~ 65-80 USD depending on location and cost of PCB fab.
 | 1N414 | Diodes | 104 |
 
 # Assembly Instructions
+(Before we start, you must have all the components to build it, including the PCB which you can order using the gerbers in the assets, and all the 3D printed parts!)\
 Solder all the diodes, keyswitches and the pico into the PCB carefully taking into account the polarity of the diode.\
 Screw the stabilizers into their respective drill holes.\
 Assemble the base of the keyboard case. Place the PCB inside. (Use a thin layer of felt ot cotton if you feel the keyswitches are scratching against the case)\
 Screw on the top plate in pieces using M4 Screws (Use heatset inserts if you want!)\
 Push in the printed keyswitches to all the keys. (You can modify the print files to add text on each key too!)\
 Then follow the firmware guide to get your working keyboard!
+[Uploading main zine.pdf…]()
 
 # Firmware Flash Instructions 
 Hold down the BOOTSELECT button on the Raspberry Pi Pico and connected to the computer via USB.\
