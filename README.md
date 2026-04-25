@@ -72,7 +72,6 @@ Assemble the base of the keyboard case. Place the PCB inside. (Use a thin layer 
 Screw on the top plate in pieces using M4 Screws (Use heatset inserts if you want!)\
 Push in the printed keyswitches to all the keys. (You can modify the print files to add text on each key too!)\
 Then follow the firmware guide to get your working keyboard!
-[Uploading main zine.pdf…]()
 
 # Firmware Flash Instructions 
 Hold down the BOOTSELECT button on the Raspberry Pi Pico and connected to the computer via USB.\
