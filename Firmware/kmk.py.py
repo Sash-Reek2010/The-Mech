@@ -1,4 +1,4 @@
-import board
+﻿source = """import board
 
 # Stuff T-T
 
@@ -16,3 +16,4 @@ keyboard.keymap = [[KC.ESCAPE, KC.F1, KC.F2, KC.F3, KC.F4, KC.F5, KC.F6, KC.F7, 
 
 if __name__ == '__main__':
     keyboard.go()
+"""
